@@ -23,5 +23,5 @@ imageElement.setAttribute('src',profilePicture);
 
 const foods  = [];
 foods.push("Sushi","Pizza","Burrito","Hamburger");
-foodElement.setAttribute()
+foodElement.setAttribute();
 

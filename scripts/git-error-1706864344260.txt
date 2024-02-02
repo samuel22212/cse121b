@@ -1,0 +1,5 @@
+> git push origin main:main
+error: RPC failed; curl 16 HTTP/2 send again with decreased length
+send-pack: unexpected disconnect while reading sideband packet
+fatal: the remote end hung up unexpectedly
+Everything up-to-date
